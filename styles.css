@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+
+  color: #3f3d56;
+  font-family: "roboto", sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+}
+/*titulo*/
+.title {
+
+  font-size: 37px;
+  margin-bottom: 22px;
+  font-weight: 700;
+  text-align: center;
+}
+/* nome completo*/
+.label-fild {
+  font-weight: 400;
+  font-size: 16px;
+  height: 24px;
+  width: 396px;
+}
+
+/*data da nascimento*/
+.label-fild-2 {
+  font-weight: 400;
+  font-size: 16px;
+  height: 24px;
+  width: 396px;
+  justify-content: space-between;
+  
+}
+
+.box-inside {
+    font-weight: 400;
+    font-size: 16px;
+    height: 24px;
+    width: 396px;
+    
+}
+
+.countries {
+  height: 47px;
+}
+.box-inside-countries {
+    height: 47px;
+    width: 396px;
+    justify-content: space-between;
+  }
+
+  .register-button {
+    color: #3f3d56;
+  }
